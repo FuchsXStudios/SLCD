@@ -7,5 +7,7 @@ branding:
 links:
   - text: On BuiltByBiy
     link: https://builtbybit.com/resources/sunlicense-license-management-system.58359/
+  - text: Support Discord
+    link: https://discord.gg/uqky8A2qxr
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
