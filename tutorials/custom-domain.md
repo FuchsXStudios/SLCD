@@ -2,7 +2,7 @@
 label: "Custom Domain"
 icon: link
 ---
-# How you can connect a domain to SunLicense?
+# 📜 How to connect a Domain with SunLicense
 Super easy! Here's the tutorial:
 
 !!!
