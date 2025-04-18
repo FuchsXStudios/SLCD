@@ -1,3 +1,7 @@
+---
+label: "Get License Key"
+icon: key
+---
 # 📜 How to Get Your License Key
 This is super easy.
 
